@@ -1,0 +1,6 @@
+{
+  "name": "AI Agency Create",
+  "description": "Enterprise platform to architect, launch, and operate client-ready AI automation agencies with live agent test lab, proposal generator, and branded agency showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
